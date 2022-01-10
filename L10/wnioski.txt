@@ -1,0 +1,1 @@
+Karty graficzne są zaprojektowane do obsługi dużych ilości danych. Chociaż wykorzystanie zasobów procesora znacznie wzrasta, GPU pozostaje na niskim poziomie
